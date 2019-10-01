@@ -1,0 +1,125 @@
+html{
+
+    
+}
+body{
+    margin: 0 auto;
+        width: 1080px;
+}
+h1{
+    font: 70px arial;
+    margin-left: 290px;
+    border-bottom: 5px black solid;
+    width: 145px;
+    padding: 5px;
+}
+h2{
+    font: 50px arial;
+    border-bottom: 5px black solid;
+    
+}
+p{
+    font: 18px arial;
+    margin-left: 100px;
+    margin-right: 100px;
+    border-left-style: solid;
+    width: 600px;
+    padding: 10px;
+    
+}
+ul.top{
+    right: 15px;
+    position:fixed;
+    top: 0px;
+  font-size: 20px
+}
+
+
+
+li{
+   float: left;
+    display: block;
+    padding: 8px;
+    background-color: darkseagreen;
+    border-right: 1px solid black;
+    border-left: 1px solid black;
+    
+    
+}
+li:hover {
+    background-color: darkgreen;
+    color: white;
+}
+.container{
+    position: relative;
+    margin-left: 300px;
+}
+
+.topleft{
+    position: absolute;
+        top: 220px;
+        left: 58px;
+    font-size: 50px;
+    font: 55px arial;
+}
+.navbar{
+    position: relative;
+}
+.header-image{
+    height: 300px;
+        width: 1200px;
+    object-fit: cover;
+    
+}
+.leaf-cutter{
+    height: 300px;
+        width: 500px
+}
+.trap-jaw{
+    height: 300px;
+    width: 550px;
+}
+.diagram{
+    height: 550px;
+    width: 550px;
+    object-fit: cover;
+    float: 
+}
+.diadiv{
+    float: 
+}
+.biotext{
+ 
+}
+
+.big-hill{
+    height: 700px;
+        width: 500px;
+    object-fit: cover
+}
+.small-hill{
+    height: 350px;
+    width: 500px;
+    object-fit: cover;
+}
+.kissies{
+    height: 500px;
+    width: 600px;
+    object-fit: cover;
+}
+.food{
+    height: 400px;
+    width: 500px;
+    object-fit: cover;
+}
+.farm{
+    height: 400px;
+    width: 500px;
+    object-fit: cover;
+}
+.rectangle{
+    width: 120%;
+    height: 100px;
+    background-color: darkseagreen;
+
+}
